@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=18&duration=2600&pause=650&color=0B3D91&center=true&vCenter=true&width=760&lines=Systems-Oriented+Frontend+Engineer;Embedded+Systems+-+STM32+%7C+ESP32;Robotics+%7C+Real-Time+Monitoring+%7C+IoT;AI-Integrated+Automation+and+Edge+Intelligence" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2400&pause=650&color=E6EDF3&background=0B1221&center=true&vCenter=true&width=760&lines=Systems-Oriented+Frontend+Engineer;Embedded+Systems+-+STM32+%7C+ESP32;Robotics+%7C+Real-Time+Monitoring+%7C+IoT;AI-Integrated+Automation+and+Edge+Intelligence" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -62,13 +62,16 @@ I build systems where silicon, code and data converge into machines that sense, 
 
 ---
 
-## Systems Map
-```mermaid
-flowchart LR
-	A[Embedded Sensors] --> B[Firmware / RTOS]
-	B --> C[Edge Gateway]
-	C --> D[IoT Ingest]
-	D --> E[Backend Services]
-	E --> F[Analytics / ML]
-	E --> G[Frontend Monitoring]
-```
+## Engineering Snapshot
+<table>
+	<tr>
+		<td><b>Systems</b><br/>Embedded firmware, RTOS, sensor stacks, board bring-up.</td>
+		<td><b>Backend</b><br/>IoT ingest, telemetry pipelines, alerting, reliability.</td>
+		<td><b>Frontend</b><br/>Monitoring dashboards, control surfaces, real-time UI.</td>
+	</tr>
+	<tr>
+		<td><b>AI/ML</b><br/>Edge inference, signal classification, anomaly detection.</td>
+		<td><b>Automation</b><br/>Robotics workflows, control loops, safety checks.</td>
+		<td><b>Quality</b><br/>Testability, observability, documentation, maintainability.</td>
+	</tr>
+</table>
