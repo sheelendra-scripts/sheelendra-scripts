@@ -75,3 +75,9 @@ I build systems where silicon, code and data converge into machines that sense, 
 		<td><b>Quality</b><br/>Testability, observability, documentation, maintainability.</td>
 	</tr>
 </table>
+
+---
+
+<div align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2200&pause=900&color=E6EDF3&background=0B1221&center=true&vCenter=true&width=760&lines=Building+reliable+systems.;From+sensor+to+dashboard.;Hardware+%2B+Software+%2B+Data." alt="Closing animation" />
+</div>
