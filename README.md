@@ -16,7 +16,7 @@
 ---
 
 ## About
-I build systems where silicon, code, and data converge into machines that sense, decide, and endure beyond the lab.
+I build systems where silicon, code and data converge into machines that sense, decide and endure beyond the lab.
 
 ---
 
@@ -27,6 +27,8 @@ I build systems where silicon, code, and data converge into machines that sense,
 - IoT platforms and edge intelligence
 - Hardware design, PCB layout, and bring-up
 - AI/ML integration for signal and decision systems
+- Frontend systems engineering for monitoring and control interfaces
+- Backend services and data pipelines for IoT systems
 
 ---
 
@@ -37,12 +39,14 @@ I build systems where silicon, code, and data converge into machines that sense,
 **AI and Data Systems**
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 
-**Platforms and Web**
+**Frontend Stack**
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=%2300C7B7) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+
+**Backend and Platform Stack**
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **Systems and Tooling**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 
 **Hardware and Design**
@@ -58,16 +62,13 @@ I build systems where silicon, code, and data converge into machines that sense,
 
 ---
 
-## GitHub Stats
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=sheelendra-scripts&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true&border_radius=12&bg_color=0B1221&title_color=0B3D91&text_color=E6EDF3&icon_color=0B3D91" height="170" alt="GitHub stats" />
-	<img src="https://streak-stats.demolab.com?user=sheelendra-scripts&theme=github-dark-blue&hide_border=true&border_radius=12&background=0B1221&ring=0B3D91&fire=0B3D91&currStreakLabel=E6EDF3" height="170" alt="GitHub streak" />
-</div>
-
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheelendra-scripts&layout=compact&theme=github_dark&hide_border=true&border_radius=12&bg_color=0B1221&title_color=0B3D91&text_color=E6EDF3" height="160" alt="Top languages" />
-</div>
-
-<div align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=sheelendra-scripts&theme=github-compact&hide_border=true&bg_color=0B1221&color=0B3D91&line=0B3D91&point=E6EDF3&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
-</div>
+## Systems Map
+```mermaid
+flowchart LR
+	A[Embedded Sensors] --> B[Firmware / RTOS]
+	B --> C[Edge Gateway]
+	C --> D[IoT Ingest]
+	D --> E[Backend Services]
+	E --> F[Analytics / ML]
+	E --> G[Frontend Monitoring]
+```
