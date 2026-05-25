@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=18&duration=2600&pause=650&color=0B3D91&center=true&vCenter=true&width=760&lines=Systems-Oriented+Frontend+Engineer;Embedded+Systems+-+STM32+%7C+ESP32;Robotics+%7C+Real-Time+Monitoring+%7C+IoT;AI-Integrated+Automation+and+Edge+Intelligence" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=18&duration=2600&pause=650&color=0B3D91&center=true&vCenter=true&width=760&lines=Systems-Oriented+Frontend+Engineer;Robotics+-+STM32+%7C+ESP32;Robotics+%7C+Real-Time+Monitoring+%7C+IoT;AI-Integrated+Automation+and+Edge+Intelligence" alt="Typing SVG" />
 </div>
 
 <div align="center">
