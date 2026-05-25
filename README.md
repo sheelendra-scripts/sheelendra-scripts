@@ -16,7 +16,7 @@
 ---
 
 ## About
-I build systems where firmware, electronics, and data pipelines meet real-world constraints. My work centers on embedded platforms, intelligent monitoring, and robotics, with attention to reliability, traceability, and measurable system behavior. I prefer designs that are testable, maintainable, and deployable, not just demonstrable.
+I build systems where silicon, code, and data converge into machines that sense, decide, and endure beyond the lab.
 
 ---
 
@@ -47,8 +47,6 @@ I build systems where firmware, electronics, and data pipelines meet real-world 
 
 **Hardware and Design**
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white) ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=flat&logo=autodesk&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-
----
 
 ---
 
