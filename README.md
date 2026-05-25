@@ -7,10 +7,6 @@
 </div>
 
 <div align="center">
-	<img src="https://komarev.com/ghpvc/?username=sheelendra-scripts&style=flat&color=0B3D91" alt="Profile views" />
-</div>
-
-<div align="center">
 	<a href="https://instagram.com/sheelendra___"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
 	<a href="https://linkedin.com/in/sheelendra--"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 	<a href="https://x.com/sheelendra__"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
@@ -54,32 +50,6 @@ I build systems where firmware, electronics, and data pipelines meet real-world 
 
 ---
 
-## Featured Projects
-**STM32**
-- Compact STM32F103C8T6 controller board designed in KiCad with USB power and native USB data on PA11/PA12.
-- Focus: hardware design, PCB layout, USB routing, and STM32 ecosystem bring-up.
-
-**AQI**
-- IoT-enabled air quality intelligence platform with ward-level monitoring, ML source detection, wind-aware attribution, and policy-grade alerts.
-- Focus: real-time data ingestion, edge-to-cloud pipelines, and ML analytics.
-
-**CareAssist**
-- Semi-autonomous triage system with real-time health monitoring, AI-assisted risk prediction, and intelligent queueing.
-- Focus: patient safety, decision support, and custom hardware integration.
-
-**ACM Website**
-- Official website for the GGSIPU East Delhi Campus ACM Student Chapter.
-- Focus: communication platform and community presence.
-
----
-
-## Current Focus
-- STM32 hardware platforms and board bring-up
-- Embedded Linux and device-level integration
-- AI-integrated robotics for edge environments
-- Low-level systems engineering and diagnostics
-- Intelligent monitoring systems for healthcare and infrastructure
-
 ---
 
 ## Research Interests and Contribution Philosophy
@@ -91,7 +61,15 @@ I build systems where firmware, electronics, and data pipelines meet real-world 
 ---
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=sheelendra-scripts&show_icons=true&theme=github_dark&hide_border=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=sheelendra-scripts&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sheelendra-scripts&layout=compact&theme=github_dark&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sheelendra-scripts&theme=github-compact&hide_border=true)
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=sheelendra-scripts&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true&border_radius=12&bg_color=0B1221&title_color=0B3D91&text_color=E6EDF3&icon_color=0B3D91" height="170" alt="GitHub stats" />
+	<img src="https://streak-stats.demolab.com?user=sheelendra-scripts&theme=github-dark-blue&hide_border=true&border_radius=12&background=0B1221&ring=0B3D91&fire=0B3D91&currStreakLabel=E6EDF3" height="170" alt="GitHub streak" />
+</div>
+
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheelendra-scripts&layout=compact&theme=github_dark&hide_border=true&border_radius=12&bg_color=0B1221&title_color=0B3D91&text_color=E6EDF3" height="160" alt="Top languages" />
+</div>
+
+<div align="center">
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=sheelendra-scripts&theme=github-compact&hide_border=true&bg_color=0B1221&color=0B3D91&line=0B3D91&point=E6EDF3&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+</div>
